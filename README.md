@@ -13,4 +13,4 @@ Using Clarifai to 'break' Google reCAPTCHA
 
 6. Automatic clicking may or may not be bugged, but the application will also output the 'correct' squares so that can be used to verify that the reCAPTCHA was 'broken'.
 
-Made at HackPoly 2016 with @ewliang, @ronitu1988 and @CheeseVampirate
+Made at HackPoly 2016 with @ewliang and @ronitu1988 

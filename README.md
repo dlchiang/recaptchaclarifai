@@ -1,4 +1,4 @@
-# recaptchaclarifai
+# reCAPTCHA Breaker - Powered by Clarifai
 Using Clarifai to 'break' Google reCAPTCHA
 
 1. Open the reCAPTCHA box
